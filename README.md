@@ -4,11 +4,13 @@ This project is part of **Codecademy's Full Stack Enginnering Path's** portfolio
 
 The objective was to build a javascipt terminal application that generates a random message output when run.
 
-I chose the theme of Zen messages that will bring inspiration, peace and contemplation topics.
+I chose the theme of Zen messages that spread inspiration, peace and contemplation topics for a random day of the week.
 
-## Requirements and How It Works
+## Requirements
 
 The application is very simple. The only requirement is to have Node.js installed on your machine.
+
+## How to run it
 
 1. Open the *Command Line Interface (CLI)* and clone this repository with the command:
 ```
