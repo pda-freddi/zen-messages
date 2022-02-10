@@ -6,6 +6,12 @@ The objective was to build a javascipt terminal application that generates a ran
 
 I chose the theme of Zen messages that spread inspiration, peace and contemplation topics for a random day of the week.
 
+## Technologies
+
+- Javascript 
+- Node.js version 16.13.2
+- Git version 2.35.1.windows.2
+
 ## Requirements
 
 The application is very simple. The only requirement is to have Node.js installed on your machine.
