@@ -9,8 +9,8 @@ I chose the theme of Zen messages that spread inspiration, peace and contemplati
 ## Technologies
 
 - Javascript 
-- Node.js version 16.13.2
-- Git version 2.35.1.windows.2
+- Node.js *version 16.13.2*
+- Git *version 2.35.1.windows.2*
 
 ## Requirements
 
@@ -27,7 +27,7 @@ git clone https://github.com/Pedro-Freddi/mixed-messages.git
 ```
 node script.js
 ```
-The message will then be outputted. Here's an example:
+3. The message will then be outputted. Here's an example:
 ```
 Next wednesday will be a sublime day! A great opportunity to contemplate on karma.
 ```
