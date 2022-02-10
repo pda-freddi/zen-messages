@@ -4,8 +4,8 @@
 // Third array should contain contemplation topics
 
 const words = {
-    adjectives: ['beautiful', 'splendid', 'marvelous', 'peaceful', 'admirable', 'wonderful', 'striking', 'remarkable', 'amazing',
-    'wondrous', 'miraculous', 'magnificent', 'glorious', 'superb', 'good', 'fantastic', 'great', 'lovely', 'delightful', 'sublime'],
+    adjectives: ['beautiful', 'splendid', 'marvelous', 'peaceful', 'wonderful', 'striking', 'remarkable', 'wondrous', 'miraculous',
+    'magnificent', 'glorious', 'superb', 'good', 'fantastic', 'great', 'lovely', 'delightful', 'sublime'],
     daysOfWeek: ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday'],
     contemplationTopics: ['impermanence', 'non-self', 'interconnection', 'human life', 'mindfulness', 'karma'],
 };
