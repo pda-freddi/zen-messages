@@ -1,6 +1,6 @@
 # Mixed Messages
 
-This project is part of **Codecademy's Full Stack Enginnering Path's** portfolio projects.
+This project is part of **Codecademy's Full Stack Engineering Path's** portfolio projects.
 
 The objective was to build a javascipt terminal application that generates a random message output when run.
 
