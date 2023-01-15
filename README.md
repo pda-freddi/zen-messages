@@ -1,19 +1,14 @@
 # Mixed Messages
 
-This project is part of **Codecademy's Full Stack Engineering Path's** portfolio projects.
-
-The objective was to build a javascipt terminal application that generates a random message output when run.
-
-I chose the theme of Zen messages that transmit inspiration, peace and contemplation topics for a random day of the week.
+This is a simple Node.js application that generates Zen messages to transmit inspiration, peace and contemplation topics for a random day of the week.
 
 ## Technologies
 
-- Node.js *version 16.13.2*
-- Git *version 2.35.1.windows.2*
+- Node.js *v16.13.2*
 
 ## Requirements
 
-The application is very simple. The only requirement is to have Node.js installed on your machine.
+The only requirement is to have Node.js installed on your machine.
 
 ## How to run it
 
